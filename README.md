@@ -9,7 +9,7 @@ this is the readme for the interview challange of the digital product school Mun
 ![yearly_total_per_category](/workspaces/DPSChallenge/Code Notebook/yearly_total_per_category.png)
 ![Imgur Image](/workspaces/DPSChallenge/Code Notebook/yearly_personalinjury.png)
 As you can see from the plot, 50% of alcohol-related accidents result in personal injury. In hit-and-run accidents, only 5% of accidents result in injury or death. Since the rate for all observed accidents is about 23%, this could indicate that serious hit-and-runs are rare and that most drivers help injured people.
-![Imgur Image](/workspaces/DPSChallenge/Code Notebook/yearly_difference.png)
+![Imgur Image](https://github.com/ValentinLu/DPSChallenge/blob/ccd64a415596fb3a5088fb1c3efbfa42fbc93cbe/Code%20Notebook/yearly_difference.png)
 
 2. Modell
 
