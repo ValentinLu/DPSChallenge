@@ -6,7 +6,8 @@ Hello everyone,
 this is the readme for the interview challange of the digital product school Munich. I would like to introduce you here to the technical aspekts of the challange, insights and discuss decisions I made during the tasks.
 
 1. Visualisation
-Category: Alkoholunfälle = 0; Fluchtunfälle = 1; Verkehrsunfäll = 2;
+
+Legend - Category: Alkoholunfälle = 0; Fluchtunfälle = 1; Verkehrsunfäll = 2;
 Type: Insgesamt = 0; Personenschäden = 1; Verletzte und Getötete = 2
 ![Imgur Image](https://github.com/ValentinLu/DPSChallenge/blob/eac74c69ac58eca1276e99c1afe57ee20ebf1fe3/Code%20Notebook/yearly_total_per_category.png)
 ![Imgur Image](https://github.com/ValentinLu/DPSChallenge/blob/eac74c69ac58eca1276e99c1afe57ee20ebf1fe3/Code%20Notebook/yearly_personalinjury.png)
