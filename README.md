@@ -8,8 +8,8 @@ this is the readme for the interview challange of the digital product school Mun
 1. Visualisation
 
 Legend - Category: Alkoholunfälle = 0; Fluchtunfälle = 1; Verkehrsunfäll = 2;
-Type: Insgesamt = 0; Personenschäden = 1; 
-Verletzte und Getötete = 2
+Type: Insgesamt = 0; Personenschäden = 1; Verletzte und Getötete = 2
+
 ![Imgur Image](https://github.com/ValentinLu/DPSChallenge/blob/3cacc93316479c25f17f21ef561b5198ff68fecd/Code%20Notebook/yearly_total_per_category.jpg)
 
 ![Imgur Image](https://github.com/ValentinLu/DPSChallenge/blob/3cacc93316479c25f17f21ef561b5198ff68fecd/Code%20Notebook/yearly_personalinjury.jpg)
